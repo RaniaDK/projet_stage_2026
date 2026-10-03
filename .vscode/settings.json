@@ -1,0 +1,10 @@
+{
+  "typescript.tsdk": "Angular/gym-management/node_modules/typescript/lib",
+  "files.exclude": {
+    "**/node_modules/**/tsconfig.json": true
+  },
+  "search.exclude": {
+    "**/node_modules": true
+  },
+  "liveServer.settings.port": 5501
+}
